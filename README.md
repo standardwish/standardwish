@@ -3,10 +3,10 @@
 
 <h3>🛠사용언어</h3>
 <div>
-<img src="https://svgshare.com/i/10uf.svg" class="margin-left:10px;margin-right:10px;" width="100px" height="100px" />&nbsp;
-<img src="https://svgshare.com/i/10v8.svg" class="margin-left:10px;margin-right:10px;" width="100px" height="100px" />&nbsp;
-<img src="https://svgshare.com/i/10uG.svg" class="margin-left:10px;margin-right:10px;" width="100px" height="100px" />&nbsp;
-<img src="https://svgshare.com/i/10up.svg" class="margin-left:10px;margin-right:10px;" width="100px" height="100px" />&nbsp;
+<img src="https://svgshare.com/i/10uf.svg" class="margin-left:10px;margin-right:10px;color:#ffffff;" width="50px" height="50px" />&nbsp;
+<img src="https://svgshare.com/i/10v8.svg" class="margin-left:10px;margin-right:10px;" width="50px" height="50px" />&nbsp;
+<img src="https://svgshare.com/i/10uG.svg" class="margin-left:10px;margin-right:10px;" width="50px" height="50px" />&nbsp;
+<img src="https://svgshare.com/i/10up.svg" class="margin-left:10px;margin-right:10px;" width="50px" height="50px" />&nbsp;
 </div>
 
 <h3>저를 더 알고싶다면</h3>
