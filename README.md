@@ -3,9 +3,9 @@
 
 <h3>🛠사용언어</h3>
 <div>
-<img src="https://svgshare.com/i/10uf.svg" style="margin-left:10px;margin-right:10px;color:#ffffff;" width="30px" height="30px" />
-<img src="https://svgshare.com/i/10v8.svg" style="margin-left:10px;margin-right:10px;" width="30px" height="30px" />
-<img src="https://svgshare.com/i/10uG.svg" style="margin-left:10px;margin-right:10px;" width="30px" height="30px" />
+<img src="https://svgshare.com/i/10uy.svg" style="margin-left:10px;margin-right:10px;color:#ffffff;" width="30px" height="30px" />
+<img src="https://svgshare.com/i/10tx.svg" style="margin-left:10px;margin-right:10px;" width="30px" height="30px" />
+<img src="https://svgshare.com/i/10uJ.svg" style="margin-left:10px;margin-right:10px;" width="30px" height="30px" />
 <img src="https://svgshare.com/i/10up.svg" style="color:#F7DF1E" width="30px" height="30px" />
 </div>
 
