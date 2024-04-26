@@ -1,8 +1,10 @@
-<h1>표준성</h1>
-standardwish
+# 표준성
+Junior Web Developer
 
-<h3>🛠사용언어</h3>
-REACT(NEXT.JS)
+![standardwish's GitHub stats](https://github-readme-stats.vercel.app/api?username=standardwish&show_icons=true&theme=dracula)
+<div style={{height:"10px"}} />
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=standardwish&layout=compact&theme=dracula)
 
 <h3>CONTACT ME</h3>
 <a href="https://velog.io/@standard_wish">
