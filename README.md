@@ -1,5 +1,11 @@
 # 표준성
+<a href="https://www.linkedin.com/in/%EC%A4%80%EC%84%B1-%ED%91%9C-760086267">
+    Linked In
+</a>
+<div style={{height:"10px"}} />
 Junior Web Developer
+
+
 
 ![standardwish's GitHub stats](https://github-readme-stats.vercel.app/api?username=standardwish&show_icons=true&theme=dracula)
 <div style={{height:"10px"}} />
