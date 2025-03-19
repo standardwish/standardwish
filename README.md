@@ -7,7 +7,7 @@ Hi! I'm Jun Seong Pyo 🙋‍♂️, a developer based in Seoul, South Korea. I 
 ## 👨‍💻 What I Do  
   
 - **Job Title:** Software R&D / Intern    
-- **Current Employer (if applicable):** LG Electronics    
+- **Current Employer:** LG Electronics    
 - **Field of Expertise:** WEB | APP | LLM  
 - **Other Key Skills:** DST(Dialogue State Tracking) | IS(Information Systems)   
 
