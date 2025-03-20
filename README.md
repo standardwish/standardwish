@@ -40,7 +40,7 @@ Here are some of the projects I've worked on or been involved in:
   **_Authors:_** Jun Seong Pyo, Hyejin Bae, ...    
   **_Conference:_** THE HCI SOCIETY OF KOREA    
   **_Venue:_** Gangwon-do, South Korea, February    
-  **_Abstract:_** Developed an AI tool for generating English gap-fill questions for Korea’s CSAT (College Scholastic Ability Test) using large language models, leveraging RAG (Retrieval-Augmented Generation), knowledge distillation techniques, and Peirce's abduction.  
+  **_Abstract:_** Developed an AI tool for generating English blank inference questions for Korea’s CSAT (College Scholastic Ability Test) using large language models, leveraging RAG (Retrieval-Augmented Generation), knowledge distillation techniques, and Peirce's abduction.  
 
 ---  
   
