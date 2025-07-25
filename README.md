@@ -7,9 +7,8 @@ Hi! I'm Jun Seong Pyo 🙋‍♂️, a developer based in Seoul, South Korea. I 
 ## 👨‍💻 What I Do  
 
 - **Job Title:** Software R&D / Undergraduate Research Assistant  
-- **Current Affiliations:** HOLI Lab @ Seoul National University, LG Electronics  
-- **Field of Expertise:** WEB | APP | LLM | Smart Home AI  
-- **Other Key Skills:** DST(Dialogue State Tracking) | IS(Information Systems) | Multi-turn Simulation  
+- **Current Affiliations:** HOLI Lab @ Seoul National University, Hanyang University
+- **Field of Expertise:** WEB | APP | LLM | Smart Home 
 
 #### Find me at:
 <div style={{ display: "flex", flex-direction: "row", gap: 16, align-items: "center" }}>
