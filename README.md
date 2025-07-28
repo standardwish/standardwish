@@ -42,7 +42,7 @@ Here are some of the projects I've worked on or been involved in:
 ## 📖 Publication  
 
 ### Conference Papers  
-- **[B.F. Sword: Blank inference system with optimized rag and knowledge distillation](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714611)**    
+- **[B.F. Sword: Blank inference system with optimized rag and knowledge distillation](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12131510)**    
   **_Authors:_** Jun Seong Pyo, Hyejin Bae, ...    
   **_Conference:_** THE HCI SOCIETY OF KOREA    
   **_Venue:_** Gangwon-do, South Korea, February    
