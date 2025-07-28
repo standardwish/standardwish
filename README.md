@@ -6,8 +6,8 @@ Hi! I'm Jun Seong Pyo 🙋‍♂️, a developer based in Seoul, South Korea. I 
 
 ## 👨‍💻 What I Do  
 
-- **Job Title:** Software R&D / Undergraduate Research Assistant  
-- **Current Affiliations:** HOLI Lab @ Undergraduate Research Assistant in Seoul National University, Undergraduate student in Hanyang University
+- **Job Title:** Undergraduate Research Assistant  
+- **Current Affiliations:** HOLI Lab @ Undergraduate Research Assistant in Seoul National University / Undergraduate student in Hanyang University
 - **Field of Expertise:** WEB | LLM | Tool Agent | Smart Home 
 
 #### Find me at:
